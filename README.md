@@ -1,2 +1,3 @@
-# estudos
-Repositório de evolução prática, com exercícios, projetos e aplicações em Python.
+# Simple Interest Calculator
+
+Este projeto contém um script Bash que calcula juros simples com base no valor principal, taxa de juros e tempo.
